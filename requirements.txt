@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai
+transformers
+torch
+requests
+rarfile
+azure-cognitiveservices-speech
