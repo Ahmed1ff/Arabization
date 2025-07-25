@@ -15,7 +15,7 @@
                                                                                                                                                                         - **HARD (Human Annotated Reviews Dataset)**
                                                                                                                                                                         - **LABR (Large-Scale Arabic Book Reviews)**
                                                                                                                                                                         - **SANAD (Large-Scale NEUTRAL activies)**
-                                                                                                                                                                        - **extrated Neural **
+                                                                                                                                                                        - **extrated Neurtal **
          
 
 - تم تنظيف البيانات وتوحيد فئات المشاعر إلى:
